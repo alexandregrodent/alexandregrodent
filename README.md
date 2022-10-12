@@ -8,10 +8,10 @@
 import WebDeveloper from 'alexandregdnt';
 
 class Bio extends WebDeveloper {
-  name     = 'Alexandre Grodent';
-  title    = 'Web Developer | Student';
-  school   = 'HETIC';
-  location = 'Vincennes, France';
+  name      = 'Alexandre Grodent';
+  title     = 'Web Developer | Student';
+  school    = 'HETIC';
+  location  = 'Vincennes, France';
 }
 
 class Skills extends WebDeveloper {
