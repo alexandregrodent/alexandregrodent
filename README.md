@@ -5,16 +5,18 @@
 
 
 ```js
-import SoftwareDeveloper from 'alexandregrodent';
+import WebDeveloper from 'alexandregdnt';
 
-class Bio extends SoftwareDeveloper {
+class Bio extends WebDeveloper {
   name     = 'Alexandre Grodent';
-  title    = 'Full Stack Developer | Student';
-  location = 'Liège, Belgium';
+  title    = 'Web Developer | Student';
+  location = 'Vincennes, France';
 }
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'TypeScript', 'PHP', 'C/C++/C#'];
-  databases  = ['MySQL', 'MongoDB'];
+class Skills extends WebDeveloper {
+  frontend = ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React'];
+  backend  = ['PHP', 'Node JS', 'C/C++', 'MySQL', 'MongoDB'];
+  tools = ['Git', 'Photoshop'];
+  languages = ['French', 'German', 'English'];
 }
 ```
