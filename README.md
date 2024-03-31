@@ -15,9 +15,9 @@ class Bio extends WebDeveloper {
 }
 
 class Skills extends WebDeveloper {
-  frontend  = ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React'];
-  backend   = ['PHP', 'Node JS', 'C/C++', 'MySQL', 'MongoDB'];
-  tools     = ['Git', 'Photoshop'];
-  languages = ['French', 'German', 'English'];
+  frontend  = ['NextJs', 'ReactJs', 'Tailwind CSS', 'TypeScript', 'HTML', 'CSS', 'JavaScript'];
+  backend   = ['Node JS', 'Express.js', 'Prisma', 'PHP', 'Symfony', 'Python', 'C/C++', 'SQL', 'ProgreSQL', 'MariaDB', 'MongoDB'];
+  tools     = ['VS Code', 'Docker', 'Git', 'GitHub', 'Figma', 'Notion', 'MacOS', 'Homebrew', 'Raycast'];
+  languages = ['French', 'English', 'German'];
 }
 ```
